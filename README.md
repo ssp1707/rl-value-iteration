@@ -1,4 +1,8 @@
-# VALUE ITERATION ALGORITHM
+### Ex No:
+### Date:
+
+
+# <p align="center"> VALUE ITERATION ALGORITHM <p>
 
 ## AIM
 To develop a Python program to find the optimal policy for the given MDP using the value iteration algorithm.
@@ -63,6 +67,10 @@ The algorithm is as follows:
 5. Return the optimal policy and the optimal value function.
 
 ## VALUE ITERATION FUNCTION
+```
+Developed By: S. Sanjna Priya
+Reg No: 212220230043
+```
 ~~~
 def value_iteration(P, gamma=1.0, theta=1e-10):
     # Initialize the value function V as an array of zeros
